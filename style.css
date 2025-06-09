@@ -1,0 +1,22 @@
+/* Custom styles for Typing Speed Tester */
+
+.ad-placeholder {
+    background-color: #f8f9fa;
+    border: 1px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#randomText {
+    font-size: 1.2rem;
+    line-height: 1.5;
+}
+
+#randomText .correct {
+    color: green;
+}
+
+#randomText .incorrect {
+    color: red;
+} 
